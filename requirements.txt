@@ -1,0 +1,4 @@
+flask==0.12.2
+gunicorn==19.7.1
+tweepy==3.5.0
+textblob==0.15.1
